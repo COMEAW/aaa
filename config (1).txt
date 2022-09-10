@@ -1,0 +1,30 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx0f8251534ec021ff",
+# 公众号appSecret
+"app_secret": "17a9c6b7f5d2b3ed1fba3ec41c7957ab",
+# 模板消息id
+"template_id": "oc-1X66lcxhD2wUs84zOTwvVoZXQ",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oc-1X67URzVMMwqpZirlmZerd9O8"],
+ 
+# 信息配置
+# 和风天气apikey
+"weather_key": "	
+97f94ce52aca4d6bbe5535751874ac6b",
+# 天行数据apikey
+"tian_api": "9a0cd28fa473fb663a462a331ad3b0e7",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "诸暨市",
+# 生日
+"birthday1": {"name": "你这个小笨蛋生日", "birthday": "2003-08-05"},
+# 生日
+"birthday2": {"name": "本公主的生日", "birthday": "2003-06-28"},
+# 在一起的日子，格式同上
+"love_date": "2022-08-23",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "努力奔跑总会遇见美好的你",
+# 金句英文
+"note_en": "Distance does not meanseparation"
+}
